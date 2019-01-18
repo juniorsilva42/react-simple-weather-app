@@ -6,6 +6,8 @@ import Form from './components/Form'
 
 import apiKeys from './config//apiKeys'
 
+import './components/main.sass'
+
 export default class App extends React.Component {
     
     constructor (props) {
