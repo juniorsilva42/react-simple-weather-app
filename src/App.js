@@ -6,7 +6,7 @@ import Form from './components/Form'
 
 import apiKeys from './config//apiKeys'
 
-import './components/main.sass'
+import './static/sass/main.sass'
 
 export default class App extends React.Component {
     
